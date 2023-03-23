@@ -1,3 +1,3 @@
 # rapidpark
 
-A new Flutter project.
+A Flutter project that makes parking easy.
